@@ -1,6 +1,6 @@
-
+![logo](https://github.com/vivek7466/vivek7466/blob/main/vivek.jpeg?raw=true.jpeg)
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek7466&label=Profile%20views&color=0e75b6&style=flat" alt="vivek7466" /> </p>
 
