@@ -1,4 +1,4 @@
-![logo](https://github.com/vivek7466/vivek7466/blob/main/vivek.jpeg?raw=true.jpeg)
+![logo](https://github.com/vivek7466/vivek7466/blob/main/Nave.png?raw=true.png)
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">Data Analysis</h3>
 
