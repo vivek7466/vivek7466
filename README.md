@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-singh-b75901183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-singh-b75901183/" height="30" width="40" /></a>
   
-<a href="https://kaggle.com/https://www.kaggle.com/vivek7466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vivek7466" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vivek7466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vivek7466" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc_hn4vdrw9f9zzy24-yy1ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc_hn4vdrw9f9zzy24-yy1ma" height="30" width="40" /></a>
 
