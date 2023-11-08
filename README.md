@@ -11,11 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-singh-b75901183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-singh-b75901183/" height="30" width="40" /></a>
-  
 <a href="https://www.kaggle.com/vivek7466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vivek7466" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/channel/UC_Hn4vdrW9F9ZZy24-yY1mA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc_hn4vdrw9f9zzy24-yy1ma" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/profile/viveksingh3709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/viveksingh3709" height="30" width="40" /></a>
 </p>
 
