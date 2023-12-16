@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **viveksingh3709@gmail.com**
 
-- Contact no **8979275820**
+-    Contact no -》 **8979275820**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
